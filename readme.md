@@ -1,0 +1,1 @@
+![Original Asset Tag file](./images/Original_Asset_tag.png)
